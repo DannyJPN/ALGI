@@ -1,0 +1,10 @@
+C:\Users\OEM\AppData\Local\Temporary Projects\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\OEM\AppData\Local\Temporary Projects\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\OEM\AppData\Local\Temporary Projects\GameOfLife\obj\x86\Debug\GameOfLife.exe
+C:\Users\OEM\AppData\Local\Temporary Projects\GameOfLife\obj\x86\Debug\GameOfLife.pdb
+C:\Users\OEM\Desktop\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.exe
+C:\Users\OEM\Desktop\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.pdb
+C:\Users\OEM\Desktop\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\OEM\Desktop\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\vsb\BC_IVT_I\S1\ALG I\Tasks\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.exe
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\vsb\BC_IVT_I\S1\ALG I\Tasks\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.pdb

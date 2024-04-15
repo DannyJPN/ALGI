@@ -1,0 +1,4 @@
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\vsb\BC_IVT_I\S1\ALG I\Tasks\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\vsb\BC_IVT_I\S1\ALG I\Tasks\GameOfLife\GameOfLife\bin\Release\GameOfLife.pdb
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\vsb\BC_IVT_I\S1\ALG I\Tasks\GameOfLife\GameOfLife\obj\x86\Release\GameOfLife.exe
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\vsb\BC_IVT_I\S1\ALG I\Tasks\GameOfLife\GameOfLife\obj\x86\Release\GameOfLife.pdb
